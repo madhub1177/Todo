@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T05:05:35.239Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="D9wpt38eJGif0a0Elajp" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T05:09:42.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="QdeUJWAN4XCOTWy68nof" version="22.0.8" type="github">
   <diagram name="Page-1" id="jE7E-ww1RXT0LPov2BIo">
-    <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1621" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dl7nTi8yWSRXbOjqtuoN-1" value="PCS Flow Diagram" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="10" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sivd4WVttyq-XqsWNZ0d-1" value="&lt;ol&gt;&lt;li&gt;&amp;nbsp;Product Onboarding&lt;/li&gt;&lt;li&gt;&amp;nbsp;PCS Warmup and Retarget Warmup&lt;/li&gt;&lt;li&gt;Price Update&lt;/li&gt;&lt;li&gt;Inventory Update&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="10" width="187" height="187" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
